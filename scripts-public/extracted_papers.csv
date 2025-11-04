@@ -1,0 +1,661 @@
+paper-URL,paper-title,paper-truncated-abstract,paper-pdf-link
+https://dl.acm.org/doi/10.1145/3695053.3731101,WSC-LLM: Efficient LLM Service and Architecture Co-exploration for Wafer-scale Chips,"The
+ deployment of large language models (LLMs) imposes significant demands 
+on computing, memory, and communication resources. Wafer-scale 
+technology enables the high-density integration of multiple single-die 
+chips with high-speed Die-to-Die (D2D) ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731101
+https://dl.acm.org/doi/10.1145/3695053.3731053,LightML: A Photonic Accelerator for Efficient General Purpose Machine Learning,"The
+ rapid integration of AI technologies into everyday life across sectors 
+such as healthcare, autonomous driving, and smart home applications 
+requires extensive computational resources, placing strain on server 
+infrastructure and incurring significant ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731053
+https://dl.acm.org/doi/10.1145/3695053.3731055,FRED: A Wafer-scale Fabric for 3D Parallel DNN Training,"Wafer-
+scale systems are an emerging technology that tightly integrates 
+high-end accelerator chiplets with high-speed wafer-scale interconnects,
+ enabling low-latency and high-bandwidth connectivity. This makes them a
+ promising platform for deep neural ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731055
+https://dl.acm.org/doi/10.1145/3695053.3731045,PD Constraint-aware Physical/Logical Topology Co-Design for Network on Wafer,"As
+ cluster scales for LLM training expand, waferscale chips, characterized
+ by the high integration density and bandwidth, emerge as a promising 
+approach to enhancing training performance. The role of Network on Wafer
+ (NoW) is becoming increasingly ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731045
+https://dl.acm.org/doi/10.1145/3695053.3731033,Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design,"Pairing-
+based cryptography (PBC) is crucial in modern cryptographic 
+applications. With the rapid advancement of adversarial research and the
+ growing diversity of application requirements, PBC accelerators need 
+regular updates in algorithms, parameter ...",
+https://dl.acm.org/doi/10.1145/3695053.3731048,Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs,"Constant-
+time programming is a widely deployed approach to harden cryptographic 
+programs against side channel attacks. However, modern processors often 
+violate the underlying assumptions of standard constant-time policies by
+ transiently executing ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731048
+https://dl.acm.org/doi/10.1145/3695053.3731407,FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit,"Fully
+ Homomorphic Encryption (FHE) enables direct computation on encrypted 
+data, providing substantial security advantages in cloud-based modern 
+society. However, FHE suffers from significant computational overhead 
+compared to plaintext computation, ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731407
+https://dl.acm.org/doi/10.1145/3695053.3731408,Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core,"Fully
+ Homomorphic Encryption (FHE) is an emerging cryptographic technique for
+ privacy-preserving computation, which enables computations on the 
+encrypted data. Nonetheless, the massive computational demands of FHE 
+prevent its further application to real-...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731408
+https://dl.acm.org/doi/10.1145/3695053.3731011,Heliostat: Harnessing Ray Tracing Accelerators for Page Table Walks,"This
+ paper introduces Heliostat, which enhances page translation bandwidth 
+on GPUs by harnessing underutilized ray tracing accelerators (RTAs). 
+While most existing studies focused on better utilizing the provided 
+translation bandwidth, this paper ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731011
+https://dl.acm.org/doi/10.1145/3695053.3731047,Forest: Access-aware GPU UVM Management,"With
+ GPU unified virtual memory (UVM), CPU and GPU can share a flat virtual 
+address space. UVM enables the GPUs to utilize the larger CPU system 
+memory as an expanded memory space. However, UVM’s on-demand page 
+migration is accompanied by expensive page ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731047
+https://dl.acm.org/doi/10.1145/3695053.3731100,Avant-Garde: Empowering GPUs with Scaled Numeric Formats,"The
+ escalating computational and memory demands of deep neural networks 
+have outpaced chip density improvements, making arithmetic density a key
+ bottleneck for GPUs. Scaled numeric formats, such as FP8 and 
+Microscaling (MX), improve arithmetic density by ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731100
+https://dl.acm.org/doi/10.1145/3695053.3731118,CoopRT: Accelerating BVH Traversal for Ray Tracing via Cooperative Threads,"Ray
+ Tracing is a rendering technique to simulate the way light interacts 
+with objects to create realistic images. It has become prominent thanks 
+to the latest hardware support on Graphics Processing Units (GPUs), 
+i.e., the Ray-Tracing (RT) unit, specially ...",
+https://dl.acm.org/doi/10.1145/3695053.3730995,The XOR Cache: A Catalyst for Compression,"Modern
+ computing systems allocate significant amounts of resources for 
+caching, especially for the last level cache (LLC). We observe that 
+there is untapped potential for compression by leveraging redundancy due
+ to private caching and inclusion that are ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730995
+https://dl.acm.org/doi/10.1145/3695053.3731008,H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference,"Low-
+batch large language model (LLM) inference has been extensively applied 
+to edge-side generative tasks, such as personal chat helper, virtual 
+assistant, reception bot, private edge server, etc. To efficiently 
+handle both prefill and decoding stages in ...",
+https://dl.acm.org/doi/10.1145/3695053.3731102,Precise exceptions in relaxed architectures,"To manage exceptions, software relies on a key architectural guarantee,precision:
+ that exceptions appear to execute between instructions. However, this 
+definition, dating back over 60 years, fundamentally assumes a 
+sequential programmers model. Modern ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731102
+https://dl.acm.org/doi/10.1145/3695053.3731038,Rethinking Prefetching for Intermittent Computing,"Prefetching
+ improves performance by reducing cache misses. However, conventional 
+prefetchers are too aggressive to serve batteryless energy harvesting 
+systems (EHSs) where energy efficiency is the utmost design priority due
+ to weak input energy and the ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731038
+https://dl.acm.org/doi/10.1145/3695053.3731036,Hardware-aware Calibration Protocol for Quantum Computers,"Calibration
+ of a quantum computer is the process of optimizing its control 
+parameters to ensure the accurate implementation of quantum gates. It 
+remains a critical challenge in scaling quantum computers. Existing 
+calibration methods take a generalized ...",
+https://dl.acm.org/doi/10.1145/3695053.3731069,Constant-Rate Entanglement Distillation for Fast Quantum Interconnects,"Distributed
+ quantum computing allows the modular construction of large-scale 
+quantum computers and enables new protocols for blind quantum 
+computation. However, such applications in the large-scale, 
+fault-tolerant regime place stringent demands on the ...",
+https://dl.acm.org/doi/10.1145/3695053.3731084,S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices,"The
+ Quantum Charge-Coupled Device (QCCD) architecture is a modular design 
+to expand trapped-ion quantum computer that relies on the coherent 
+shuttling of qubits across an array of segmented electrodes. Leveraging 
+trapped ions for their long coherence ...",
+https://dl.acm.org/doi/10.1145/3695053.3731086,ARTERY: Fast Quantum Feedback using Branch Prediction,"Quantum
+ feedback makes the execution of dynamic quantum circuits possible and 
+is widely used in quantum algorithms. However, due to the inherent 
+computation and transmission cost, the latency of the quantum feedback 
+becomes a considerable burden on the ...",
+https://dl.acm.org/doi/10.1145/3695053.3731087,Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing,"Hybrid
+ quantum-classical algorithms have shown great promise in leveraging the
+ computational potential of quantum systems. However, the efficiency of 
+these algorithms is severely constrained by the limitations of current 
+quantum hardware architectures. ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731087
+https://dl.acm.org/doi/10.1145/3695053.3731097,HiPER: Hierarchically-Composed Processing for Efficient Robot Learning-Based Control,"Learning-
+Based Model Predictive Control (LMPC) is a class of algorithms that 
+enhances Model Predictive Control (MPC) by including machine learning 
+methods, improving robot navigation in complex environments. However, 
+the combination of machine learning ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731097
+https://dl.acm.org/doi/10.1145/3695053.3731099,Dadu-Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation,"Embodied
+ AI robots have the potential to fundamentally improve the way human 
+beings live and manufacture. Continued progress in the burgeoning field 
+of using large language models to control robots depends critically on 
+an efficient computing substrate, ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731099
+https://dl.acm.org/doi/10.1145/3695053.3731110,"Process
+ Only Where You Look: Hardware and Algorithm Co-optimization for 
+Efficient Gaze-Tracked Foveated Rendering in Virtual Reality","Virtual
+ reality (VR) plays a crucial role in advancing immersive, interactive 
+experiences that transform learning, work, and entertainment by 
+enhancing user engagement and expanding possibilities across various 
+fields. Image rendering is one of the most ...",
+https://dl.acm.org/doi/10.1145/3695053.3731072,RTSpMSpM: Harnessing Ray Tracing for Efficient Sparse Matrix Computations,"The
+ significance of sparse matrix algebra pushes the development of sparse 
+matrix accelerators. Despite the general reception of using hardware 
+accelerators to address application demands and the convincement of 
+substantial performance gain, integrating ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731072
+https://dl.acm.org/doi/10.1145/3695053.3731104,AQB8: Energy-Efficient Ray Tracing Accelerator through Multi-Level Quantization,"Ray
+ tracing (RT) is a rendering technique that produces high-fidelity 
+images by simulating how light physically interacts with objects in a 
+scene. This realism comes at a high computational and memory cost, 
+largely driven by the need to find numerous ray-...",
+https://dl.acm.org/doi/10.1145/3695053.3731000,ANVIL: An In-Storage Accelerator for Name–Value Data Stores,"Name–
+value pairs (NVPs) are a widely-used abstraction to organize data in 
+millions of applications. At a high level, an NVP associates a name 
+(e.g., array index, key, hash) with each value in a collection of data. 
+Specific NVP data store formats can vary ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731000
+https://dl.acm.org/doi/10.1145/3695053.3731001,ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory,"With
+ the increasing memory demands of emerging applications, tiered memory 
+has become a viable solution for reducing data center hardware costs. 
+Given the low performance of the capacity tiers in tiered memory 
+systems, optimizing memory management is ...",
+https://dl.acm.org/doi/10.1145/3695053.3731005,UPP: Universal Predicate Pushdown to Smart Storage,"In large-scale analytics, in-storage processing (ISP) can significantly boost query performance by letting ISP engines (e.g.,
+ FPGAs) pre-select only the relevant data before sending them to 
+databases. This reduces the amount of not only data transfer ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731005
+https://dl.acm.org/doi/10.1145/3695053.3731028,XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting,"The
+ occasional nature of I/O bursts in production clusters makes the 
+substantial and expensive SSD internal hardware resources (e.g., 
+computation and memory resources) always underutilized, resulting in 
+cost inefficiency. Open-Channel SSD (OCSSD), as a ...",
+https://dl.acm.org/doi/10.1145/3695053.3731032,In-Storage Acceleration of Retrieval Augmented Generation as a Service,"Retrieval-
+augmented generation (RAG) services are rapidly gaining adoption in 
+enterprise settings as they combine information retrieval systems (e.g.,
+ databases) with large language models (LLMs) to enhance response 
+generation and reduce hallucinations. ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731032
+https://dl.acm.org/doi/10.1145/3695053.3730996,SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting,"Early
+ exiting has recently emerged as a promising technique for accelerating 
+large language models (LLMs) by effectively reducing the hardware 
+computation and memory access.In this paper, we identify that the LLM vocabulary serves as the runtime search ...",
+https://dl.acm.org/doi/10.1145/3695053.3731019,Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization,"Modern
+ Large Language Model (LLM) serving system batches multiple requests to 
+achieve high throughput, while batching attention operations is 
+challenging, renderingmemory bandwidtha critical bottleneck. Today, to mitigate this issue, the community ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731019
+https://dl.acm.org/doi/10.1145/3695053.3731025,Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models,"Large
+ Language Models (LLMs), exemplified by ChatGPT, have emerged as a 
+predominant workload in current machine learning systems. To achieve 
+efficient training and inference within the constraints of limited 
+single-NPU memory capacity, deploying LLMs on ...",
+https://dl.acm.org/doi/10.1145/3695053.3731057,LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference,"Large
+ Language Model (LLM) inference becomes resource-intensive, prompting a 
+shift toward low-bit model weights to reduce the memory footprint and 
+improve efficiency. Such low-bit LLMs necessitate the mixed-precision 
+matrix multiplication (mpGEMM), an ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731057
+https://dl.acm.org/doi/10.1145/3695053.3731073,AiF: Accelerating On-Device LLM Inference Using In-Flash Processing,"While
+ large language models (LLMs) achieve remarkable performance across 
+diverse application domains, their substantial memory demands present 
+challenges, especially on personal devices with limited DRAM capacity. 
+Recent LLM inference engines have ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731073
+https://dl.acm.org/doi/10.1145/3695053.3731092,LIA: A Single-GPU LLM Inference Acceleration with Cooperative AMX-Enabled CPU-GPU Computation and CXL Offloading,"The
+ limited memory capacity of single GPUs constrains large language model 
+(LLM) inference, necessitating cost-prohibitive multi-GPU deployments or
+ frequent performance-limiting CPU-GPU transfers over slow PCIe. In this
+ work, we first benchmark recent ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731092
+https://dl.acm.org/doi/10.1145/3695053.3730998,Enabling Ahead Prediction with Practical Energy Constraints,"Accurate
+ branch predictors require multiple cycles to produce a prediction, and 
+that latency hurts processor performance. ""Ahead prediction"" solves the 
+performance problem by starting the prediction early. Unfortunately, 
+this means making the prediction ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730998
+https://dl.acm.org/doi/10.1145/3695053.3731070,Profile-Guided Temporal Prefetching,"Temporal
+ prefetching shows promise for handling irregular memory access 
+patterns, which are common in data-dependent and pointer-based data 
+structures. Recent studies introduced on-chip metadata storage to reduce
+ the memory traffic caused by accessing ...",
+https://dl.acm.org/doi/10.1145/3695053.3731049,WarmCache: Exploiting STT-RAM Cache for Low-Power Intermittent Systems,"This paper introducesWarmCache,
+ an optimized STT-RAM cache design with relaxed non-volatility, for an 
+energy harvesting system (EHS) to avoid such compulsory misses across 
+power failure. The key insight is that if the retention time of a cache 
+is longer ...",
+https://dl.acm.org/doi/10.1145/3695053.3731054,Magellan: A High-Performance Loop-Guided Prefetcher for Indirect Memory Access,"Graph
+ analytics and sparse linear algebra applications heavily rely on 
+indirect memory access (IMA). IMAs are characterized by poor temporal 
+and spatial locality, which causes frequent high-latency DRAM accesses. 
+While dedicated hardware prefetchers for ...",
+https://dl.acm.org/doi/10.1145/3695053.3731059,Leveraging control-flow similarity to reduce branch predictor cold effects in microservices,"Modern
+ datacenter applications commonly adopt a microservice software 
+architecture, where an application is decomposed into smaller 
+interconnected microservices communicating via the network. These 
+microservices often operate under strict latency ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731059
+https://dl.acm.org/doi/10.1145/3695053.3731016,"Cramming a Data Center into One Cabinet, a Co-Exploration of Computing and Hardware Architecture of Waferscale Chip","The
+ rapid advancements in large language models (LLMs) have significantly 
+increased hardware demands. Wafer-scale chips, which integrate numerous 
+compute units on an entire wafer, offer a high-density computing 
+solution for data centers and can extend ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731016
+https://dl.acm.org/doi/10.1145/3695053.3731023,Fair-CO2: Fair Attribution for Cloud Carbon Emissions,"Fair-CO2is a system for fairly attributing operational and embodied carbon in 
+cloud data centers to user workloads. It leverages the Shapley value, a 
+game theory solution for fair shared cost attribution with theoretical 
+fairness guarantees. We propose ...",
+https://dl.acm.org/doi/10.1145/3695053.3731026,"Dynamic Load Balancer in Intel Xeon Scalable Processor: Performance Analyses, Enhancements, and Guidelines","The
+ rapid increase in inter-host networking speed has challenged host 
+processing capabilities, as bursty traffic and uneven load distribution 
+among host CPU cores give rise to excessive queuing delays and service 
+latency variances. To cost-efficiently ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731026
+https://dl.acm.org/doi/10.1145/3695053.3731114,A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices,"In
+ modern server CPUs, the Last-Level Cache (LLC) serves not only as a 
+victim cache for higher-level private caches but also as a buffer for 
+low-latency DMA transfers between CPU cores and I/O devices through 
+Direct Cache Access (DCA). However, prior work ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731114
+https://dl.acm.org/doi/10.1145/3695053.3731108,Single-Address-Space FaaS with Jord,"Function-
+as-a-Service (FaaS) has emerged as a popular cloud paradigm that 
+simplifies software development and deployment by providing scalable and
+ event-driven function execution without the burden of managing servers.
+ FaaS was originally created with a...",
+https://dl.acm.org/doi/10.1145/3695053.3731071,HardHarvest: Hardware-Supported Core Harvesting for Microservices,"In
+ microservice environments, users size their virtual machines (VMs) for 
+peak loads, leaving cores idle much of the time. To improve core 
+utilization and overall throughput, it is instructive to consider a 
+recently-introduced software technique for ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731071
+https://dl.acm.org/doi/10.1145/3695053.3730997,MoPAC: Efficiently Mitigating Rowhammer with Probabilistic Activation Counting,"Rowhammer
+ has worsened over the last decade. Existing in-DRAM solutions, such as 
+TRR, were broken with simple patterns. In response, the recent DDR5 
+JEDEC standards modify the DRAM array to enablePer-Row Activation Counters (PRAC)for tracking aggressor ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730997
+https://dl.acm.org/doi/10.1145/3695053.3731007,When Mitigations Backfire: Timing Channel Attacks and Defense for PRAC-Based RowHammer Mitigations,"Per
+ Row Activation Counting (PRAC) has emerged as a robust framework for 
+mitigating RowHammer (RH) vulnerabilities in modern DRAM systems. 
+However, we uncover a critical vulnerability: a timing channel 
+introduced by the Alert Back-Off (ABO) protocol and ...",
+https://dl.acm.org/doi/10.1145/3695053.3731030,PuDHammer: Experimental Analysis of Read Disturbance Effects of Processing-using-DRAM in Real DRAM Chips,"Processing-using-DRAM (PuD) is a promisingparadigmfor alleviating the data movement bottleneck using a DRAM array’s 
+massive internal parallelism and bandwidth to execute very wide 
+data-parallel operations. Performing a PuD operation involves activating...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731030
+https://dl.acm.org/doi/10.1145/3695053.3731117,DREAM: Enabling Low-Overhead Rowhammer Mitigation via Directed Refresh Management,"This
+ paper focuses on Memory-Controller (MC) side Rowhammer mitigation. 
+MC-side mitigation consists of two parts: First, a tracker to identify 
+the aggressor rows. Second, a command to let the MC inform the DRAM chip
+ to perform victim-refresh for the ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731117
+https://dl.acm.org/doi/10.1145/3695053.3731024,Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression,"Large
+ language models (LLMs) have demonstrated transformative capabilities 
+across diverse artificial intelligence applications, yet their 
+deployment is hindered by substantial memory and computational demands, 
+especially in resource-constrained ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731024
+https://dl.acm.org/doi/10.1145/3695053.3731051,Hybe: GPU-NPU Hybrid System for Efficient LLM Inference with Million-Token Context Window,"The
+ growth of context window size in large language model (LLM) inference 
+poses a very distinct computational challenge of hardware inefficiency. 
+The inefficiency arises from the computational imbalance during LLM 
+inference between the compute-intensive ...",
+https://dl.acm.org/doi/10.1145/3695053.3731077,MeshSlice: Efficient 2D Tensor Parallelism for Distributed DNN Training,"In
+ distributed training of large DNN models, the scalability of 
+one-dimensional (1D) tensor parallelism (TP) is limited because of its 
+high communication cost. 2D TP attains extra scalability and efficiency 
+because it reduces communication relative to 1D ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731077
+https://dl.acm.org/doi/10.1145/3695053.3731098,Zettafly: A Network Topology with Flexible Non-blocking Regions for Large-scale AI and HPC Systems,"Interconnection
+ networks are playing an increasingly crucial role in achieving 
+scalability and throughput for post-exascale and zettascale computing 
+systems. Resource consumption characteristics of AI and HPC workloads 
+are essential to designing effective ...",
+https://dl.acm.org/doi/10.1145/3695053.3730987,AIM: Software and Hardware Co-design for Architecture-level IR-drop Mitigation in High-performance PIM,"SRAM
+ Processing-in-Memory (PIM) has emerged as the most promising 
+implementation for high-performance PIM, delivering superior computing 
+density, energy efficiency, and computational precision. However, the 
+pursuit of higher performance necessitates more ...",
+https://dl.acm.org/doi/10.1145/3695053.3731041,OptiPIM: Optimizing Processing-in-Memory Acceleration Using Integer Linear Programming,"Processing-
+in-memory (PIM) accelerators provide superior performance and energy 
+efficiency to conventional architectures by minimizing off-chip data 
+movement and exploiting extensive internal memory bandwidth for 
+computation. However, efficient PIM ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731041
+https://dl.acm.org/doi/10.1145/3695053.3731089,HeterRAG: Heterogeneous Processing-in-Memory Acceleration for Retrieval-augmented Generation,"By integrating external knowledge bases,Retrieval-augmented Generation(RAG) enhances natural language generation for knowledge-intensive 
+scenarios and specialized domains, producing content that is both more 
+informative and personalized. RAG systems ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731089
+https://dl.acm.org/doi/10.1145/3695053.3731096,ATiM: Autotuning Tensor Programs for Processing-in-DRAM,"Processing-
+in-DRAM (DRAM-PIM) has emerged as a promising technology for 
+accelerating memory-intensive operations in modern applications, such as
+ Large Language Models (LLMs). Despite its potential, current software 
+stacks for DRAM-PIM face significant ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731096
+https://dl.acm.org/doi/10.1145/3695053.3731027,Single Spike Artificial Neural Networks,"Spiking
+ neural networks (SNNs) circumvent the need for large scale arithmetic 
+using techniques inspired by biology. However, SNNs are designed with 
+fundamentally different algorithms from ANNs, which have benefited from a
+ rich history of theoretical ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731027
+https://dl.acm.org/doi/10.1145/3695053.3731035,Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks,"Spiking
+ Neural Networks (SNNs) are gaining attention for their energy 
+efficiency and biological plausibility, utilizing 0-1 activation 
+sparsity through spike-driven computation. While existing SNN 
+accelerators exploit this sparsity to skip zero ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731035
+https://dl.acm.org/doi/10.1145/3695053.3731063,Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-constrained Pruning,"Spiking
+ neural networks(SNNs) have emerged as a promising solution for 
+deployment on resource-constrained edge devices and neuromorphic 
+hardware due to their low power consumption. Spiking transformers, which
+ integrate attention mechanisms similar to ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731063
+https://dl.acm.org/doi/10.1145/3695053.3731076,Hermes: Algorithm-System Co-design for Efficient Retrieval-Augmented Generation At-Scale,"The
+ rapid advancement of Large Language Models (LLMs) as well as the 
+constantly expanding amount of data make keeping the latest models 
+constantly up-to-date a challenge. The high computational cost required 
+to constantly retrain models to handle evolving ...",
+https://dl.acm.org/doi/10.1145/3695053.3731093,RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving,"Retrieval-
+augmented generation (RAG) is emerging as a popular approach for 
+reliable LLM serving. However, efficient RAG serving remains an open 
+challenge due to the rapid emergence of many RAG variants and the 
+substantial differences in workload ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731093
+https://dl.acm.org/doi/10.1145/3695053.3731043,Transitive Array: An Efficient GEMM Accelerator with Result Reuse,"Deep
+ Neural Networks (DNNs) and Large Language Models (LLMs) have 
+revolutionized artificial intelligence, yet their deployment faces 
+significant memory and computational challenges, especially in 
+resource-constrained environments. Quantization techniques ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731043
+https://dl.acm.org/doi/10.1145/3695053.3730993,Light-weight Cache Replacement for Instruction Heavy Workloads,"The
+ last-level cache (LLC) is the last chance for memory accesses from the 
+processor to avoid the costly latency of accessing the main memory. In 
+recent years, an increasing number of instruction heavy workloads have 
+put pressure on the last-level cache. ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730993
+https://dl.acm.org/doi/10.1145/3695053.3731009,The Sparsity-Aware LazyGPU Architecture,"General-
+Purpose Graphics Processing Units (GPUs) are essential accelerators in 
+data-parallel applications, including machine learning, and physical 
+simulations. Although GPUs utilize fast wavefront context switching to 
+hide memory access latency, memory ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731009
+https://dl.acm.org/doi/10.1145/3695053.3731010,"Evaluating Ruche Networks: Physically Scalable, Cost-Effective, Bandwidth-Flexible NoCs","2-
+D mesh has been widely used as an on-chip network topology, because of 
+its low design complexity and physical scalability. However, its poor 
+latency and throughput scaling have been well-noted in the past. 
+Previous solutions to overcome its ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731010
+https://dl.acm.org/doi/10.1145/3695053.3731029,Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads,"Modern
+ CPUs suffer from the frontend bottleneck because the instruction 
+footprint of server workloads exceeds the private cache capacity. Prior 
+works have examined the CPU components or private cache to improve the 
+instruction hit rate. The large ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731029
+https://dl.acm.org/doi/10.1145/3695053.3731040,NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems,"Multiple
+ Graphics Processing Units (GPUs) are being integrated into systems to 
+meet the computing demands of emerging workloads. To continuously 
+support more GPUs in a system, it is important to connect them 
+efficiently and effectively. To this end, ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731040
+https://dl.acm.org/doi/10.1145/3695053.3731075,Caravan: A Hardware/Software Co-Design for Efficient SIMD Neighbor Search on Point Clouds,"Neighbor searchis the backbone task for point cloud processing, which is widely 
+employed in current 3D computer vision applications. To be efficient,neighbor searchrelies on spatial data structures such as k-d trees, to prune the search space. We found ...",
+https://dl.acm.org/doi/10.1145/3695053.3731013,ANSMET: Approximate Nearest Neighbor Search with Near-Memory Processing and Hybrid Early Termination,"Approximate
+ nearest neighbor search (ANNS) is a fundamental operation in modern 
+vector databases to efficiently retrieve nearby vectors to a given 
+query. On general-purpose computing platforms, ANNS is found not only to
+ be highly memory-bound due to the ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731013
+https://dl.acm.org/doi/10.1145/3695053.3731079,DReX: Accurate and Scalable Dense Retrieval Acceleration via Algorithmic-Hardware Codesign,"Retrieval-
+augmented generation (RAG) supplements large language models (LLM) with 
+information retrieval to ensure up-to-date, accurate, factually 
+grounded, and contextually relevant outputs. RAG implementations often 
+employ dense retrieval methods and ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731079
+https://dl.acm.org/doi/10.1145/3695053.3731083,EOD: Enabling Low Latency GNN Inference via Near-Memory Concatenate Aggregation,"As
+ online services based on graph databases increasingly integrate with 
+machine learning, serving low-latency Graph Neural Network (GNN) 
+inference for individual requests has become a critical challenge. 
+Real-time GNN inference services operate in an ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731083
+https://dl.acm.org/doi/10.1145/3695053.3731106,RAP: Reconfigurable Automata Processor,"Regular
+ pattern matching is essential for applications such as text processing,
+ malware detection, network security, and bioinformatics. Recent 
+in-memory automata processors have significantly advanced the energy and
+ memory efficiency over conventional ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731106
+https://dl.acm.org/doi/10.1145/3695053.3731109,Hybrid SLC-MLC RRAM Mixed-Signal Processing-in-Memory Architecture for Transformer Acceleration via Gradient Redistribution,"Transformers,
+ while revolutionary, face challenges due to their demanding 
+computational cost and large data movement. To address this, we propose 
+HyFlexPIM, a novel mixed-signal processing-in-memory (PIM) accelerator 
+for inference that flexibly utilizes ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731109
+https://dl.acm.org/doi/10.1145/3695053.3731116,REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing,"Large
+ Language Models (LLMs) face an inherent challenge: their knowledge is 
+confined to the data that they have been trained on. This limitation, 
+combined with the significant cost of retraining renders them incapable 
+of providing up-to-date responses. To ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731116
+https://dl.acm.org/doi/10.1145/3695053.3730989,MicroScopiQ: Accelerating Foundational Models through Outlier-Aware Microscaling Quantization,"Quantization
+ of foundational models (FMs) is significantly more challenging than 
+traditional DNNs due to the emergence of large magnitude values called 
+outliers. Existing outlier-aware algorithm-architecture co-design 
+techniques either use mixed-precision,...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730989
+https://dl.acm.org/doi/10.1145/3695053.3731002,Topology-Aware Virtualization over Inter-Core Connected Neural Processing Units,"With
+ the rapid development of artificial intelligence (AI) applications, an 
+emerging class of AI accelerators, termed Inter-core Connected Neural 
+Processing Units (NPU), has been adopted in both cloud and edge 
+computing environments, like Graphcore IPU, ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731002
+https://dl.acm.org/doi/10.1145/3695053.3731012,Chip Architectures Under Advanced Computing Sanctions,"The
+ rise of large scale machine learning models has generated unprecedented
+ requirements and demand on computing hardware to enable these trillion 
+parameter models. However, the importance of these bleeding-edge chips 
+to the global economy, technological ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731012
+https://dl.acm.org/doi/10.1145/3695053.3731017,DiTile-DGNN: An Efficient Accelerator for Distributed Dynamic Graph Neural Network Inference,"Dynamic
+ Graph Neural Networks (DGNNs) have recently emerged as a promising 
+model for learning complex temporal and spatial relationships in 
+evolving graphs. The performance of DGNNs is enabled by the simultaneous
+ integration of both graph neural networks (...",
+https://dl.acm.org/doi/10.1145/3695053.3731018,Cambricon-SR: An Accelerator for Neural Scene Representation with Sparse Encoding Table,"Neural
+ Scene Representation (NSR) is a promising technique for representing 
+real scenes. By learning from dozens of 2D photos captured from 
+different viewpoints, NSR computes the 3D representation of real scenes.
+ However, the performance of NSR processing ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731018
+https://dl.acm.org/doi/10.1145/3695053.3731031,FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with Flexible Numerical DAta TypE,"Hyper-
+Dimensional Computing (HDC) is a promising brain-inspired learning 
+framework designed for efficient, hardware-friendly computation. By 
+utilizing highly parallel operations, HDC encodes raw data into a 
+hyper-dimensional space, facilitating efficient ...",
+https://dl.acm.org/doi/10.1145/3695053.3730999,WindServe: Efficient Phase-Disaggregated LLM Serving with Stream-based Dynamic Scheduling,"Existing
+ large language model (LLM) serving systems typically batch the 
+compute-bound prefill and I/O-bound decoding phases together. This 
+co-location approach not only leads to significant interference between 
+the two phases but also limits resource ...",
+https://dl.acm.org/doi/10.1145/3695053.3731014,Neoscope: How Resilient Is My SoC to Workload Churn?,"The
+ lifetime of hardware is increasing, but the lifetime of software is 
+not. This leads to devices that, while performant when released, have 
+fall-off due to changing workload suitability. To ensure that 
+performance is maintained, computer architects must ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731014
+https://dl.acm.org/doi/10.1145/3695053.3731074,"CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering","Increasingly, multi-processing unit (PU) systems (e.g.,
+ CPU-GPU, multi-CPU, multi-GPU, etc.) are embracing cache-coherent 
+shared memory to facilitate inter-PU communication. The coherence 
+protocols in these systems support write-through accesses that ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731074
+https://dl.acm.org/doi/10.1145/3695053.3731094,Nyx: Virtualizing dataflow execution on shared FPGA platforms,"As
+ FPGAs become more widespread for improving computing performance within
+ cloud infrastructure, researchers aim to equip them with virtualization
+ features to enable resource sharing in both temporal and spatial 
+domains, thereby improving hardware ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731094
+https://dl.acm.org/doi/10.1145/3695053.3731095,HPVM-HDC: A Heterogeneous Programming System for Accelerating Hyperdimensional Computing,"Hyperdimensional
+ Computing (HDC), a technique inspired by cognitive models of 
+computation, has been proposed as an efficient and robust alternative 
+basis for machine learning. HDC programs are often manually written in 
+low-level and target specific ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731095
+https://dl.acm.org/doi/10.1145/3695053.3731103,UGPU: Dynamically Constructing Unbalanced GPUs for Enhanced Resource Efficiency,"Different
+ GPU generations have various numbers of SMs but still keep the balanced
+ idea during the manufacture, i.e., the proportion of compute and memory
+ resources within a single physical GPU is similar. Although GPU 
+applications have different ...",
+https://dl.acm.org/doi/10.1145/3695053.3730991,Synchronization for Fault-Tolerant Quantum Computers,"Quantum
+ Error Correction (QEC) codes store information reliably in logical 
+qubits by encoding them in a larger number of less reliable qubits. The 
+surface code, known for its high resilience to physical errors, is a 
+leading candidate for fault-tolerant ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730991
+https://dl.acm.org/doi/10.1145/3695053.3731022,SWIPER: Minimizing Fault-Tolerant Quantum Program Latency via Speculative Window Decoding,"Real-
+time decoding is a key ingredient in future fault-tolerant quantum 
+systems, yet many decoders are too slow to run in real time. Prior work 
+has shown that parallel window decoding can scalably meet throughput 
+requirements in the presence of increasing ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731022
+https://dl.acm.org/doi/10.1145/3695053.3731042,CaliQEC: In-situ Qubit Calibration for Surface Code Quantum Error Correction,"Quantum
+ Error Correction (QEC) is essential for fault-tolerant, large-scale 
+quantum computation. However, error drift in qubits undermines QEC 
+performance during long computations, necessitating frequent 
+calibration. Conventional calibration methods ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731042
+https://dl.acm.org/doi/10.1145/3695053.3731112,Variational Quantum Algorithms in the era of Early Fault Tolerance,"Quantum
+ computing roadmaps predict the availability of 10,000-qubit devices 
+within the next 3–5 years. With projected two-qubit error rates of 0.1%,
+ these systems will enable certain operations under quantum error 
+correction (QEC) using lightweight codes, ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731112
+https://dl.acm.org/doi/10.1145/3695053.3731039,Resource Analysis of Low-Overhead Transversal Architectures for Reconfigurable Atom Arrays,"Neutral
+ atom arrays have recently emerged as a promising platform for 
+fault-tolerant quantum computing. Based on these advances, including 
+dynamically-reconfigurable connectivity and fast transversal operations,
+ we present a low-overhead architecture that ...",
+https://dl.acm.org/doi/10.1145/3695053.3731046,SwitchQNet: Optimizing Distributed Quantum Computing for Quantum Data Centers with Switch Networks,"Distributed
+ Quantum Computing (DQC) provides a scalable architecture by 
+interconnecting multiple quantum processor units (QPUs). Among various 
+DQC implementations, quantum data centers (QDCs) — where QPUs in 
+different racks are connected through ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731046
+https://dl.acm.org/doi/10.1145/3695053.3731004,Assassyn: A Unified Abstraction for Architectural Simulation and Implementation,"The
+ continuous growth of on-chip transistors driven by technology scaling 
+urges architecture developers to design and implement novel 
+architectures to effectively utilize the excessive on-chip resources. 
+Due to the challenges of programming in register-...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731004
+https://dl.acm.org/doi/10.1145/3695053.3731037,Concorde: Fast and Accurate CPU Performance Modeling with Compositional Analytical-ML Fusion,"Cycle-
+level simulators such as gem5 are widely used in microarchitecture 
+design, but they are prohibitively slow for large-scale design space 
+explorations. We present Concorde, a new methodology for learning fast 
+and accurate performance models of ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731037
+https://dl.acm.org/doi/10.1145/3695053.3731064,AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern GPUs,"Large
+ language model (LLM) inference applications are surging in recent 
+years, which largely relies on modern GPUs. On the other hand, GPU 
+analytical model is a commonly used tool for architects to precisely 
+identify bottlenecks quickly with deep ...",
+https://dl.acm.org/doi/10.1145/3695053.3731068,GCStack+GCScaler: Fast and Accurate GPU Performance Analyses Using Fine-Grained Stall Cycle Accounting and Interval Analysis,"To
+ design next-generation Graphics Processing Units (GPUs), GPU architects
+ rely on GPU performance analyses to identify key GPU performance 
+bottlenecks and explore GPU design spaces. Unfortunately, the existing 
+GPU performance analysis mechanisms make it ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731068
+https://dl.acm.org/doi/10.1145/3695053.3731082,TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems,"Deep
+ Neural Networks (DNNs) have become increasingly capable of performing 
+tasks ranging from image recognition to content generation. The training
+ and inference of DNNs heavily rely on GPUs, as GPUs’ massively parallel
+ architecture delivers extremely ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731082
+https://dl.acm.org/doi/10.1145/3695053.3730992,Accelerating Simulation of Quantum Circuits under Noise via Computational Reuse,"To
+ realize the full potential of quantum computers, we must mitigate qubit
+ errors by developing noise-aware algorithms, compilers, and 
+architectures. Thus, simulating quantum programs on high-performance 
+computing (HPC) systems with different noise models ...",
+https://dl.acm.org/doi/10.1145/3695053.3730994,QPlacer: Frequency-Aware Component Placement for Superconducting Quantum Computers,"Quantum
+ Computers face a critical limitation in qubit numbers, hindering their 
+progression towards large-scale and fault-tolerant quantum computing. A 
+significant challenge impeding scaling is crosstalk, characterized by 
+unwanted interactions among ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730994
+https://dl.acm.org/doi/10.1145/3695053.3731020,QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization,"Recent
+ advances in quantum computing introduce the ability to reuse qubits 
+through mid-circuit measurements, thereby enhancing the efficiency of 
+quantum devices with limited computational resources. However, 
+identifying optimal reuse opportunities in ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731020
+https://dl.acm.org/doi/10.1145/3695053.3731065,Genesis: A Compiler for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers,"This
+ paper introduces Genesis, the first compiler designed to support 
+Hamiltonian Simulation on hybrid continuous-variable (CV) and 
+discrete-variable (DV) quantum computing systems. Genesis is a two-level
+ compilation system. At the first level, it ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731065
+https://dl.acm.org/doi/10.1145/3695053.3731085,Reinforcement Learning-Guided Graph State Generation in Photonic Quantum Computers,"The
+ photonic quantum computer (PQC) is an emerging and promising quantum 
+computing paradigm that has gained momentum in recent years. In PQC, 
+computations are executed by performing measurements on photons in graph
+ states (i.e., a collection of entangled ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731085
+https://dl.acm.org/doi/10.1145/3695053.3731044,HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches,"Specialized
+ hardware accelerators are widely used for sparse tensor computations. 
+For very large tensors that do not fit in on-chip buffers, tiling is a 
+promising solution to improve data reuse on these sparse accelerators. 
+Nevertheless, existing tiling ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731044
+https://dl.acm.org/doi/10.1145/3695053.3731061,NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access,"Data
+ movement is the dominant energy, performance, and scalability 
+bottleneck in modern architectures. Systems have tackled data movement 
+by distributing data, e.g., via non-uniform memory access (NUMA) 
+architectures. However, to reduce data movement, ...",
+https://dl.acm.org/doi/10.1145/3695053.3731015,DX100: Programmable Data Access Accelerator for Indirection,"Indirect
+ memory accesses frequently appear in applications where memory 
+bandwidth is a critical bottleneck. Prior indirect memory access 
+proposals, such as indirect prefetchers, runahead execution, fetchers, 
+and decoupled access/execute architectures, ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731015
+https://dl.acm.org/doi/10.1145/3695053.3731034,SEAL: A Single-Event Architecture for In-Sensor Visual Localization,"Image
+ sensors have low costs and broad applications, but the large data 
+volume they generate can result in significant energy and latency 
+overheads during data transfer, storage, and processing. This paper 
+explores how shifting from traditional binary ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731034
+https://dl.acm.org/doi/10.1145/3695053.3731080,IDEA-GP: Instruction-Driven Architecture with Efficient Online Workload Allocation for Geometric Perception,"The
+ algorithmic complexity of robotic systems presents significant 
+challenges to achieving generalized acceleration in robot applications. 
+On the one hand, the diversity of operators and computational flows 
+within similar task categories prevents the ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731080
+https://dl.acm.org/doi/10.1145/3695053.3731409,Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences,"The
+ rapid growth of AI workloads at Meta has motivated our in-house 
+development of AI chips, aiming to significantly reduce the total cost 
+of ownership and mitigate risks posed by unpredictable GPU supplies. At 
+ISCA’23, we presented Meta’s first-...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731409
+https://dl.acm.org/doi/10.1145/3695053.3731410,Scaling Llama 3 Training with Efficient Parallelism Strategies,"Llama
+ is a widely used open-source large language model. This paper presents 
+the design and implementation of the parallelism techniques used in 
+Llama 3 pre-training. To achieve efficient training on tens of thousands
+ of GPUs, Llama 3 employs a ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731410
+https://dl.acm.org/doi/10.1145/3695053.3731411,"DCPerf: An Open-Source, Battle-Tested Performance Benchmark Suite for Datacenter Workloads","We
+ present DCPerf, the first open-source performance benchmark suite 
+actively used to inform procurement decisions for millions of CPU in 
+hyperscale datacenters. Although numerous benchmarks exist, our 
+evaluation reveals that they inaccurately project ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731411
+https://dl.acm.org/doi/10.1145/3695053.3731412,Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures,"The
+ rapid scaling of large language models (LLMs) has unveiled critical 
+limitations in current hardware architectures, including constraints in 
+memory capacity, computational efficiency, and interconnection 
+bandwidth. DeepSeek-V3, trained on 2,048 NVIDIA ...",
+https://dl.acm.org/doi/10.1145/3695053.3730990,Avalanche: Optimizing Cache Utilization via Matrix Reordering for Sparse Matrix Multiplication Accelerator,"Sparse
+ Matrix Multiplication (SpMM) is essential in various scientific and 
+engineering applications but poses significant challenges due to 
+irregular memory access patterns. Many hardware accelerators have been 
+proposed to accelerate SpMM. However, they ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3730990
+https://dl.acm.org/doi/10.1145/3695053.3731050,"Debunking
+ the CUDA Myth Towards GPU-based AI Systems: Evaluation of the 
+Performance and Programmability of Intel's Gaudi NPU for AI Model 
+Serving","This
+ paper presents a comprehensive evaluation of Intel Gaudi NPUs as an 
+alternative to NVIDIA GPUs, which is currently the de facto standard in 
+AI system design. First, we create microbenchmarks to compare Intel 
+Gaudi-2 with NVIDIA A100, showing that ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731050
+https://dl.acm.org/doi/10.1145/3695053.3731060,GPUs All Grown-Up: Fully Device-Driven SpMV Using GPU Work Graphs,"Sparse
+ matrix-vector multiplication (SpMV) is a key operation across 
+high-performance computing, graph analytics, and many more applications.
+ In these applications, the matrix characteristics, notably non-zero 
+elements per row, can vary widely and impact ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731060
+https://dl.acm.org/doi/10.1145/3695053.3731078,Telos: A Dataflow Accelerator for Sparse Triangular Solver of Partial Differential Equations,"Partial
+ Differential Equations (PDEs) serve as the backbone of numerous 
+scientific problems. Their solutions often rely on numerical methods, 
+which transform these equations into large, sparse systems of linear 
+equations. These systems, solved with ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731078
+https://dl.acm.org/doi/10.1145/3695053.3731113,MagiCache: A Virtual In-Cache Computing Engine,"The
+ rise of data-parallel applications poses a significant challenge to the
+ energy consumption of computing architectures. In-cache computation is a
+ promising solution for achieving high parallelism and energy efficiency
+ because it can eliminate data ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731113
+https://dl.acm.org/doi/10.1145/3695053.3731111,Folded Banks: 3D-Stacked HBM Design for Fine-Grained Random-Access Bandwidth,"Despite
+ significant improvements in peak bandwidth, the HBM industry has 
+neglected random-access (irregular) bandwidth, limiting performance in 
+many real-world applications. Improving effective HBM bandwidth is 
+challenging due to power-constrained ...",
+https://dl.acm.org/doi/10.1145/3695053.3731056,NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly,"De novoassembly enables investigations of unknown genomes, paving the way for 
+personalized medicine and disease management. However, it faces immense 
+computational challenges arising from the excessive data volumes and 
+algorithmic complexity.While state-...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731056
+https://dl.acm.org/doi/10.1145/3695053.3731088,Reconfigurable Stream Network Architecture,"As
+ AI systems grow increasingly specialized and complex, managing hardware
+ heterogeneity becomes a pressing challenge. How can we efficiently 
+coordinate and synchronize heterogeneous hardware resources to achieve 
+high utilization? How can we minimize the ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731088
+https://dl.acm.org/doi/10.1145/3695053.3731091,DS-TPU: Dynamical System for on-Device Lifelong Graph Learning with Nonlinear Node Interaction,"Graph learning on dynamical systemshas recently surfaced as an emerging research domain. By leveraging a 
+novel electronic Dynamical System (DS), various graph learning 
+challenges have been effectively tackled through a rapid, spontaneous 
+natural ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731091
+https://dl.acm.org/doi/10.1145/3695053.3731105,TRACI: Network Acceleration of Input-Dynamic Communication for Large-Scale Deep Learning Recommendation Model,"Large-
+scale deep learning recommendation models (DLRMs) rely on embedding 
+layers with terabyte-scale embedding tables, which present significant 
+challenges to memory capacity. In addition, these embedding layers 
+exhibit sparse and random data access ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731105
+https://dl.acm.org/doi/10.1145/3695053.3731107,"FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering","Neural
+ Radiance Fields (NeRF), an AI-driven approach for 3D view 
+reconstruction, has demonstrated impressive performance, sparking active
+ research across fields. As a result, a range of advanced NeRF models 
+has emerged, leading on-device applications to ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731107
+https://dl.acm.org/doi/10.1145/3695053.3731115,BingoGCN: Towards Scalable and Efficient GNN Acceleration with Fine-Grained Partitioning and SLT,"Graph
+ Neural Networks (GNNs) are increasingly popular due to their wide 
+applicability to tasks requiring the understanding of unstructured graph
+ data, such as those in social network analysis and autonomous driving. 
+However, real-time, large-scale GNN ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731115
+https://dl.acm.org/doi/10.1145/3695053.3731003,Lumina: Real-Time Neural Rendering by Exploiting Computational Redundancy,"3D
+ Gaussian Splatting (3DGS) has vastly advanced the pace of neural 
+rendering, but it remains computationally demanding on today’s mobile 
+SoCs. To address this challenge, we proposeLumina, a hardware-algorithm co-designed system, which integrates two ...",
+https://dl.acm.org/doi/10.1145/3695053.3731006,LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization,"Recent
+ advances in Protein Structure Prediction Models (PPMs), such as 
+AlphaFold2 and ESMFold, have revolutionized computational biology by 
+achieving unprecedented accuracy in predicting three-dimensional protein
+ folding structures. However, these models ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731006
+https://dl.acm.org/doi/10.1145/3695053.3731052,MD-pipe: A Strong Scaling Enhanced Pipeline Architecture for Ab Initio Accuracy Molecular Dynamics,"Molecular
+ Dynamics (MD) simulations with first-principles accuracy are widely 
+applied in various fields, including materials science and molecular 
+pharmacology. Current research focus on reducing the solution time ofab initiomolecular dynamics (AIMD) ...",
+https://dl.acm.org/doi/10.1145/3695053.3731067,InfiniMind: A Learning-Optimized Large-Scale Brain-Computer Interface,"Brain-
+computer interfaces (BCIs) provide an interactive closed-loop connection
+ between the brain and a computer. By employing signal processors 
+implanted within the brain, BCIs are driving innovations across various 
+fields in neuroscience and medicine. ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731067
+https://dl.acm.org/doi/10.1145/3695053.3731021,Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs,"Zero-
+Knowledge Proofs (ZKPs) are a rapidly growing technique for 
+privacy-preserving and verifiable computation. ZKPs enable one party (a 
+prover:\( \mathcal {P} \)) to prove to another (a verifier:\( \mathcal {V} \)) that a statement is true or correct ...",
+https://dl.acm.org/doi/10.1145/3695053.3731062,Adaptive CHERI Compartmentalization for Heterogeneous Accelerators,"Hardware
+ accelerators offer high performance and energy efficiency for specific 
+tasks compared to general-purpose processors. However, current hardware 
+accelerator designs focus primarily on performance, overlooking 
+security. This poses significant ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731062
+https://dl.acm.org/doi/10.1145/3695053.3731066,Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors,"Recent
+ system-on-a-chip (SoC) architectures for edge systems incorporate a 
+variety of processing units, such as CPUs, GPUs, and NPUs. Although 
+hardware-based memory protection is crucial for the security of edge 
+systems, conventional mechanisms experience ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731066
+https://dl.acm.org/doi/10.1145/3695053.3731119,SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization,"Transient
+ execution attacks (TEAs), such as Spectre and Meltdown, exploit 
+speculative execution to leak sensitive data through residual 
+microarchitectural state. Traditional defenses often incur high 
+performance and hardware costs by delaying speculative ...",https://dl.acm.org/doi/pdf/10.1145/3695053.3731119

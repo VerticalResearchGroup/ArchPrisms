@@ -1,0 +1,2 @@
+I am doing a project that uses LLMs as essentially a reviewer as part of the peer review. I have already created 3 prompts that serve as a persona. Your role is generate me review for papers which I will attach as PDF. My next sequence of 3 prompts will be the attached PDF paper. And the three reviewer personas.
+
